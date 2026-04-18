@@ -1,0 +1,201 @@
+date,amount,description,category
+2025-11-30,1037.5,concert,Entertainment
+2025-11-01,982.71,pharmacy,Health
+2025-12-17,4960.78,concert,Entertainment
+2026-02-10,3753.65,mobile recharge,Utilities
+2025-10-31,4232.89,dinner,Food
+2025-12-24,4579.1,dinner,Food
+2025-11-14,1782.42,doctor visit,Health
+2026-02-12,3754.41,petrol,Travel
+2026-01-18,3407.3,gym,Health
+2026-02-15,2732.53,mobile recharge,Utilities
+2026-04-03,2685.68,wifi bill,Utilities
+2025-12-17,3702.13,movie ticket,Entertainment
+2026-02-04,687.6,metro,Travel
+2025-10-31,2092.89,game,Entertainment
+2026-02-22,4904.83,hospital,Health
+2025-12-25,3479.73,petrol,Travel
+2026-03-19,811.27,pharmacy,Health
+2026-04-05,2771.72,breakfast,Food
+2026-02-18,4903.43,wifi bill,Utilities
+2025-11-15,2654.27,lunch,Food
+2025-12-03,1478.97,concert,Entertainment
+2025-11-23,4866.39,hospital,Health
+2026-03-31,3337.78,water bill,Utilities
+2025-12-11,747.1,wifi bill,Utilities
+2026-02-21,181.93,restaurant,Food
+2025-11-11,4543.4,concert,Entertainment
+2025-12-03,1200.65,petrol,Travel
+2026-01-29,1674.89,amazon,Shopping
+2026-01-29,2087.85,coffee,Food
+2025-11-14,3438.33,pizza,Food
+2025-12-18,595.84,electronics,Shopping
+2026-04-12,3164.3,uber,Travel
+2026-02-23,2796.86,gym,Health
+2025-12-24,4870.79,spotify,Entertainment
+2026-03-25,4370.5,coffee,Food
+2025-12-13,2381.81,wifi bill,Utilities
+2026-02-02,4045.82,taxi,Travel
+2025-10-31,1839.53,zara,Shopping
+2026-02-22,1509.43,pizza,Food
+2025-11-05,1951.82,gas bill,Utilities
+2025-12-18,2644.05,movie ticket,Entertainment
+2026-03-12,4325.95,doctor visit,Health
+2026-03-11,395.33,breakfast,Food
+2026-03-27,3837.98,shoes,Shopping
+2025-12-30,303.05,spotify,Entertainment
+2026-03-06,2536.54,hospital,Health
+2025-10-29,4341.92,metro,Travel
+2026-01-03,2723.6,hospital,Health
+2025-11-06,1743.25,gym,Health
+2026-04-06,3766.6,spotify,Entertainment
+2025-12-10,1337.11,hospital,Health
+2026-03-19,1149.43,taxi,Travel
+2026-01-06,3563.35,flipkart,Shopping
+2025-12-26,1665.13,taxi,Travel
+2025-12-09,2241.39,wifi bill,Utilities
+2025-10-28,1774.3,spotify,Entertainment
+2025-11-27,1761.14,petrol,Travel
+2025-11-01,3088.71,game,Entertainment
+2026-02-14,1917.47,restaurant,Food
+2025-12-31,2226.2,shoes,Shopping
+2026-01-28,3555.69,shoes,Shopping
+2025-11-02,1608.0,netflix,Entertainment
+2025-10-19,662.04,game,Entertainment
+2026-04-11,4675.78,pharmacy,Health
+2025-10-21,957.63,mobile recharge,Utilities
+2025-12-14,3896.28,bus,Travel
+2026-02-15,2697.9,pharmacy,Health
+2026-02-15,2054.1,coffee,Food
+2026-02-16,2417.35,netflix,Entertainment
+2026-03-07,1039.38,electronics,Shopping
+2025-12-28,4681.9,water bill,Utilities
+2025-10-28,361.96,amazon,Shopping
+2025-10-21,2750.93,amazon,Shopping
+2025-12-24,1032.21,mobile recharge,Utilities
+2026-02-25,1673.06,lunch,Food
+2025-12-01,4211.78,amazon,Shopping
+2025-10-22,3496.4,dinner,Food
+2025-12-03,2063.61,pharmacy,Health
+2026-01-18,3586.15,snacks,Food
+2026-03-25,4235.25,amazon,Shopping
+2025-12-29,4920.57,pharmacy,Health
+2026-02-16,4787.26,pizza,Food
+2025-11-02,2155.92,taxi,Travel
+2026-01-22,503.44,movie ticket,Entertainment
+2025-12-06,2611.12,mobile recharge,Utilities
+2026-02-02,4809.01,metro,Travel
+2026-02-08,1043.54,gym,Health
+2025-11-30,1370.07,amazon,Shopping
+2026-03-27,1302.62,books,Shopping
+2026-04-01,258.34,coffee,Food
+2025-12-29,618.87,mobile recharge,Utilities
+2026-01-10,2012.42,restaurant,Food
+2025-12-29,2164.16,doctor visit,Health
+2026-04-08,3959.17,mobile recharge,Utilities
+2025-11-24,3117.87,coffee,Food
+2025-11-13,757.52,coffee,Food
+2025-12-04,1929.68,lunch,Food
+2026-04-10,4034.23,gym,Health
+2026-02-08,2902.04,petrol,Travel
+2026-03-18,4287.59,clothes,Shopping
+2026-01-22,651.09,restaurant,Food
+2026-01-19,3738.55,pizza,Food
+2026-01-16,1666.62,netflix,Entertainment
+2026-01-03,4911.63,movie ticket,Entertainment
+2025-11-10,1349.32,flipkart,Shopping
+2025-12-03,4382.17,electricity bill,Utilities
+2026-03-19,1984.84,clothes,Shopping
+2025-10-30,4131.68,movie ticket,Entertainment
+2026-02-17,3576.84,books,Shopping
+2026-03-15,4144.73,bus,Travel
+2025-11-09,238.43,breakfast,Food
+2026-01-06,3201.77,taxi,Travel
+2025-12-17,636.51,metro,Travel
+2025-11-22,651.87,breakfast,Food
+2026-02-20,1071.15,game,Entertainment
+2025-10-26,3971.22,movie ticket,Entertainment
+2026-01-29,1804.45,medicine,Health
+2026-03-10,938.03,books,Shopping
+2026-04-08,3778.43,shoes,Shopping
+2025-11-14,638.3,movie ticket,Entertainment
+2025-11-01,348.92,water bill,Utilities
+2026-03-17,951.97,electronics,Shopping
+2025-10-30,4155.71,netflix,Entertainment
+2026-03-26,4915.23,electronics,Shopping
+2025-12-16,2275.49,shoes,Shopping
+2025-11-15,1024.07,gas bill,Utilities
+2025-11-18,3967.7,breakfast,Food
+2025-12-14,3711.28,restaurant,Food
+2026-04-09,450.04,petrol,Travel
+2026-03-10,3898.43,books,Shopping
+2025-12-20,2770.75,books,Shopping
+2026-01-11,3670.74,amazon,Shopping
+2025-11-03,2185.52,spotify,Entertainment
+2025-12-31,122.53,train ticket,Travel
+2026-01-31,4782.92,wifi bill,Utilities
+2026-02-17,4773.97,electricity bill,Utilities
+2025-12-02,137.03,spotify,Entertainment
+2026-01-03,3424.26,concert,Entertainment
+2025-12-23,4724.42,spotify,Entertainment
+2025-10-21,2870.25,uber,Travel
+2025-11-21,583.79,movie ticket,Entertainment
+2026-03-24,3047.22,water bill,Utilities
+2026-04-07,1959.38,bus,Travel
+2026-02-03,1914.5,train ticket,Travel
+2025-12-15,2580.5,petrol,Travel
+2026-03-19,1564.47,mobile recharge,Utilities
+2026-01-15,4238.59,petrol,Travel
+2025-11-06,1807.66,zara,Shopping
+2026-02-04,4753.07,coffee,Food
+2026-04-13,1537.8,dinner,Food
+2025-10-25,4230.11,gym,Health
+2026-01-14,4297.37,concert,Entertainment
+2025-11-04,3923.21,clothes,Shopping
+2025-10-24,4054.5,game,Entertainment
+2025-12-03,2772.76,pharmacy,Health
+2025-11-23,773.28,petrol,Travel
+2025-11-25,3753.15,mobile recharge,Utilities
+2026-02-10,4172.33,books,Shopping
+2025-10-27,717.96,wifi bill,Utilities
+2025-11-19,2306.1,petrol,Travel
+2026-02-08,805.49,hospital,Health
+2026-04-03,402.16,groceries,Food
+2026-03-31,3456.88,coffee,Food
+2026-01-08,3916.3,electricity bill,Utilities
+2025-10-24,1077.52,movie ticket,Entertainment
+2026-02-17,4533.54,movie ticket,Entertainment
+2025-12-31,1321.79,pharmacy,Health
+2026-03-23,2723.14,electricity bill,Utilities
+2025-12-11,3941.49,movie ticket,Entertainment
+2025-11-11,166.83,groceries,Food
+2026-02-20,350.28,electricity bill,Utilities
+2026-03-31,3065.89,mobile recharge,Utilities
+2026-03-29,4175.98,pharmacy,Health
+2026-04-10,1727.62,spotify,Entertainment
+2025-12-01,1063.79,breakfast,Food
+2026-03-18,4751.25,game,Entertainment
+2026-02-05,4330.34,pharmacy,Health
+2026-02-21,2528.55,water bill,Utilities
+2025-10-29,4414.26,water bill,Utilities
+2026-02-02,3752.79,electronics,Shopping
+2026-03-30,78.61,game,Entertainment
+2025-12-28,1618.39,movie ticket,Entertainment
+2025-11-10,3974.79,uber,Travel
+2026-02-09,1704.41,breakfast,Food
+2025-12-27,2118.49,mobile recharge,Utilities
+2025-10-27,3751.39,petrol,Travel
+2025-11-02,2254.31,movie ticket,Entertainment
+2025-11-07,3789.07,zara,Shopping
+2025-11-09,4816.3,spotify,Entertainment
+2025-11-07,2402.8,mobile recharge,Utilities
+2025-12-30,747.09,metro,Travel
+2026-04-02,4120.09,doctor visit,Health
+2026-03-09,308.57,shoes,Shopping
+2026-03-14,4767.72,mobile recharge,Utilities
+2026-01-11,4684.87,train ticket,Travel
+2026-04-09,2296.54,medicine,Health
+2025-10-28,2450.02,mobile recharge,Utilities
+2026-04-02,1954.69,wifi bill,Utilities
+2026-03-08,161.29,pharmacy,Health
+2026-02-14,974.1,shoes,Shopping
